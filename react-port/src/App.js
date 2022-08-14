@@ -34,7 +34,7 @@ function App() {
         <Navbar />
         <Routes>
           <Route
-            path="/react-port"
+            path="/"
             element={<Home />}
           />
           <Route
@@ -177,7 +177,6 @@ function About() {
         <div>
             <div id="bio">
                 <p>jenna anderson | 22 | united states</p>
-                <p>code. keebs. games.</p>
             </div>
             <div id="expBox">
                 <p id="exp">experience</p>
@@ -296,7 +295,7 @@ function Home() {
 function Navbar() {
   return (
       <header>
-          <Nav>
+          <div>
               <header>
                   <p id='navHeader'>offpudding</p>
               </header>
@@ -330,7 +329,7 @@ function Navbar() {
                       contact
                   </NavLink>
               </div>
-          </Nav>
+          </div>
       </header>
   );
 }
