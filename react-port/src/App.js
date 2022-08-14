@@ -34,7 +34,7 @@ function App() {
         <Navbar />
         <Routes>
           <Route
-            path="/"
+            path="/react-port"
             element={<Home />}
           />
           <Route
