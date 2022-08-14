@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-port/static/css/main.66fc6088.css",
-    "main.js": "/react-port/static/js/main.b1fcdfd9.js",
+    "main.js": "/react-port/static/js/main.b5564d3a.js",
     "static/js/787.510e8dec.chunk.js": "/react-port/static/js/787.510e8dec.chunk.js",
     "static/media/gatherTheMagic.png": "/react-port/static/media/gatherTheMagic.2ac997dbbce36424a820.png",
     "static/media/where2.png": "/react-port/static/media/where2.4defbf4eefe5d5e7f428.png",
@@ -29,11 +29,11 @@
     "static/media/ProcerTypeface-Regular.ttf": "/react-port/static/media/ProcerTypeface-Regular.1ab41c7953dd5fa80e11.ttf",
     "index.html": "/react-port/index.html",
     "main.66fc6088.css.map": "/react-port/static/css/main.66fc6088.css.map",
-    "main.b1fcdfd9.js.map": "/react-port/static/js/main.b1fcdfd9.js.map",
+    "main.b5564d3a.js.map": "/react-port/static/js/main.b5564d3a.js.map",
     "787.510e8dec.chunk.js.map": "/react-port/static/js/787.510e8dec.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.66fc6088.css",
-    "static/js/main.b1fcdfd9.js"
+    "static/js/main.b5564d3a.js"
   ]
 }
