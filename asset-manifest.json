@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/react-port/static/css/main.66fc6088.css",
+    "main.js": "/react-port/static/js/main.b1fcdfd9.js",
+    "static/js/787.510e8dec.chunk.js": "/react-port/static/js/787.510e8dec.chunk.js",
+    "static/media/gatherTheMagic.png": "/react-port/static/media/gatherTheMagic.2ac997dbbce36424a820.png",
+    "static/media/where2.png": "/react-port/static/media/where2.4defbf4eefe5d5e7f428.png",
+    "static/media/streamline.png": "/react-port/static/media/streamline.5bb5c57ed6ce9b7ca887.png",
+    "static/media/portfolio.png": "/react-port/static/media/portfolio.1aa543876c14b564813f.png",
+    "static/media/READMEgenerator.png": "/react-port/static/media/READMEgenerator.0545fbe629291cbb59ed.png",
+    "static/media/flash.jpg": "/react-port/static/media/flash.edc246850d4b698982f0.jpg",
+    "static/media/demonDog2.jpg": "/react-port/static/media/demonDog2.72fef0603e7ed0deb3ee.jpg",
+    "static/media/avatar.PNG": "/react-port/static/media/avatar.f76fd20464a86de38212.PNG",
+    "static/media/sunsetMoth.jpg": "/react-port/static/media/sunsetMoth.6faff411a66db9b741a5.jpg",
+    "static/media/faye.jpg": "/react-port/static/media/faye.1eee8fc83f45a71d7db2.jpg",
+    "static/media/lunaMoth.jpg": "/react-port/static/media/lunaMoth.1c6a6cd1fe776290b11a.jpg",
+    "static/media/coderace.png": "/react-port/static/media/coderace.c4ed1a08568b294f2e34.png",
+    "static/media/heartGirl.JPG": "/react-port/static/media/heartGirl.1551d27b41347894d410.JPG",
+    "static/media/yelan.JPG": "/react-port/static/media/yelan.c3a4057768c07db062b4.JPG",
+    "static/media/demonDog.jpg": "/react-port/static/media/demonDog.2b1377bb5b21cca7a7d2.jpg",
+    "static/media/rebuildAsuka.JPG": "/react-port/static/media/rebuildAsuka.3ae0187d8f685b5fe921.JPG",
+    "static/media/socialNetwork.png": "/react-port/static/media/socialNetwork.24ebf2fa11ea183db647.png",
+    "static/media/eCommerce.png": "/react-port/static/media/eCommerce.aadb049528d9584a2b82.png",
+    "static/media/moonBunny.jpg": "/react-port/static/media/moonBunny.417450ef85de2de9f25d.jpg",
+    "static/media/betterWeather.png": "/react-port/static/media/betterWeather.6d366dc9860ecaaaebf6.png",
+    "static/media/cloudwords.png": "/react-port/static/media/cloudwords.c9e7fe845087500ceabe.png",
+    "static/media/budgetTracker.png": "/react-port/static/media/budgetTracker.84944c00c03de21ef48d.png",
+    "static/media/noteTaker.png": "/react-port/static/media/noteTaker.6f362187e392eb94e0c2.png",
+    "static/media/ProcerTypeface-Regular.ttf": "/react-port/static/media/ProcerTypeface-Regular.1ab41c7953dd5fa80e11.ttf",
+    "index.html": "/react-port/index.html",
+    "main.66fc6088.css.map": "/react-port/static/css/main.66fc6088.css.map",
+    "main.b1fcdfd9.js.map": "/react-port/static/js/main.b1fcdfd9.js.map",
+    "787.510e8dec.chunk.js.map": "/react-port/static/js/787.510e8dec.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.66fc6088.css",
+    "static/js/main.b1fcdfd9.js"
+  ]
+}
