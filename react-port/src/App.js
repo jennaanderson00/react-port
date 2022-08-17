@@ -167,14 +167,14 @@ function Resume() {
 function About() {
   return (
     <div id="aboutBox">
-        <div>
+        <div id="imgBox">
             <img 
                 alt="digital artwork of a girl wearing chunky sneakers and a cat hat carrying a heart, drawn by Jenna"
                 id="avatarImg"
                 src={avatar}
             ></img>
         </div>
-        <div>
+        <div id="bioBox">
             <div id="bio">
                 <p>jenna anderson | 22 | united states</p>
             </div>
@@ -201,13 +201,15 @@ function Contact() {
         </p>
         <p id="contactInf">text and email available 9:00 - 18:00 CST.  text, call, and email avaliable 18:00 - 9:00 CST.</p>
       </div>
-      <div className="contactInfo">
-        <section id="phone">
-          <a href={phoneRef}>phone: +1-716-245-9658</a>
-        </section>
-        <section id="email">
-          <a href={emailRef}>email: jennaanderson00@gmail.com</a>
-        </section>
+      <div id="contactInfoBox">
+        <div className="contactInfo">
+          <section id="phone">
+            <a href={phoneRef}>phone: +1-716-245-9658</a>
+          </section>
+          <section id="email">
+            <a href={emailRef}>email: jennaanderson00@gmail.com</a>
+          </section>
+      </div>
       </div>
     </div> 
   );
